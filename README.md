@@ -10,8 +10,8 @@ Using Python to explore data related to bike share systems for three major citie
 This code prompts the user the answer a series of questions relating to the statistics they want to see segmented by city, month, and day of week. 
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+***chicago.csv***
+***new_york_city.csv***
+***washington.csv***
 
 
