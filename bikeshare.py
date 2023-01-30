@@ -29,7 +29,7 @@ def get_filters():
     # get user input for month (january, february, ... , june or none)
     while True:
         months= ['January','February','March','April','June','May','None']
-        month = input("\n Which month would you like to consider? (January, February, March, April, May, June)? Type 'None' for no month filter").title()
+        month = input("\n Which month would you like to view? (January, February, March, April, May, June)? Type 'None' for no month filter").title()
         if month in months:
             break
         else:
